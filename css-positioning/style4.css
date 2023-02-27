@@ -28,3 +28,15 @@ body {
   height: 100px;
   background-color: blue;
 }
+
+.three {
+  position: relative;
+  top: -100px;
+  left: -100px;
+}
+
+.two, .four {
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
